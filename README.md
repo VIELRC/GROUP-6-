@@ -1,2 +1,2 @@
-# GROUP-6-
-Repository of Group 6
+# GROUP-6-ICC 0103.1-5-INTERMEDIATE PROGRAMMING
+Appointway of Group 6
